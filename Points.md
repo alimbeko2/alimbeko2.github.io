@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scores
+title: "Scores"
 permalink: /scores/
 ---
 

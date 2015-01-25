@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Court
+title: "Court"
 permalink: /court/
 ---
 
