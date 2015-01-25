@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img src="/images/xlp_home.jpg" width="300">
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Extreme Learning Process (XLP) is a trans-disciplinary learning activity design methodology that organizes learners from different disciplines to design and execute learning activities for other learners. It leverage modern ICT infrastructures to empower learners by giving them access to open source technologies, Cryto-currencies, and Distributed Version Control Systems to keep track of participants' contributions, conflicts, and learning outcomes throughout learning activities on a global basis.
