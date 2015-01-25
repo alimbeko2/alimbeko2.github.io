@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<style type="text/css">
+	body, html
+	{
+	margin: 0; padding: 0; height: 100%; overflow: hidden;
+	}
+	#xlp-content
+	{
+		position: absolute;
+		height: 100%;
+		width: 100%;
+	}
+	</style>
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		<div id="xlp-content">
+			{{content}}
+		</div>
+	</body>
+</html>
