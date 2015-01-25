@@ -1,6 +1,5 @@
 # Site settings
 title: XLP Base
-email: alimbeko@zoho.com
 description: > # this means to ignore newlines until "baseurl:"
   Extreme Learning Process (XLP)
 baseurl: "" # the subpath of your site, e.g. /blog/
