@@ -6,8 +6,9 @@ permalink: /market/
 
 Offers will be posted here. Please visit the Market Department to post your offer here.
 
-公告
+商品价格明细表
 --
+####公告
 
 |提供商|货品名称|价格
 |:---:|:---:|:---:|
@@ -30,3 +31,5 @@ Offers will be posted here. Please visit the Market Department to post your offe
 |诚信责任有限公司|画布参考资料|20/张
 |诚信责任有限公司|画布模板|20/张
 |诚信责任有限公司|635模板|20/张
+
+买卖双权方应履行《市场规则》不得违反。（请查看市场规则）。
