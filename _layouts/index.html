@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <style type="text/css">
+  .xlp-banner{
+  height: 350px;
+  margin-bottom: 30px;
+  margin-top:-30px;
+  background-size: 100% 120%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image:url(/images/xlp-banner.png);
+  }
+  </style>
+  <body>
+    {% include header.html %}
+    <div class="page-content">
+      <div class="xlp-banner"></div>
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
