@@ -6,7 +6,7 @@ permalink: /scores/
 
 Participants' daily scores will be posted here. Please contact the Points Department for more information.
 
-Day 1:
+Day 1 (last updated 12:30):
 
 |Name|开场（4）|logo（3/2）
 |---|---|---|
