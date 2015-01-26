@@ -8,7 +8,7 @@ Offers will be posted here. Please visit the Market Department to post your offe
 
 商品价格明细表
 --
-####公告
+###公告
 
 |提供商|货品名称|价格
 |:---:|:---:|:---:|
