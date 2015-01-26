@@ -9,7 +9,7 @@ Participants' daily scores will be posted here. Please contact the Points Depart
 Day 1 (last updated 12:30):
 
 |Name|开场（4）|logo（3/2）
-|---|*---*|*---*|
+|---|:---:|:---:|
 |周亦庄|4|2
 |周大桐|4|2
 |王荔妍|4|2
