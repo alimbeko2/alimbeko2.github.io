@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: "How to publish your team's website"
+tags: [publish]
+---
+
+dfghjfvtfvtfs
+3. 上传静态网站到团队网站项目的 gitcafe-pages 分支中
