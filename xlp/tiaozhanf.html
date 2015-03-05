@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>图片滚动</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"><style type="text/css">
+<!--
+@import url("css.css");
+body {
+	background-image: url();
+	background-repeat: no-repeat;
+}
+-->
+</style>
+</head>
+<body><center>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td height="700" align="center" background="img/bg_1.jpg"><table width="1000" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="31">&nbsp;</td>
+        </tr>
+      </table>
+        <table width="1000" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="5"><img src="img/top_1.gif" width="5" height="60" /></td>
+          <td background="img/top_2.gif"><p><img src="img/2.jpg" width="50" height="53" /></p>
+            </td>
+          <td width="5"><img src="img/top_3.gif" width="5" height="60" /></td>
+        </tr>
+      </table>
+        <table width="1000" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="3"><img src="img/zhong_1.gif" width="3" height="31" /></td>
+            <td background="img/zhong_2.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="25">&nbsp;</td>
+                  <td width="4"><img src="img/dao_1.gif" width="4" height="26" /></td>
+                  <td align="center" background="img/dao_2.gif" class="daohang"><a href="index.html" class="daohang">首页</a></td>
+                  <td width="5"><img src="img/dao_3.gif" width="5" height="26" /></td>
+                  <td width="2"></td>
+                  <td width="4"><img src="img/dao_1.gif" width="4" height="26" /></td>
+                  <td align="center" background="img/dao_2.gif" class="daohang"><a href="beijingyiyi.html" class="daohang">背景意义</a></td>
+                  <td width="5"><img src="img/dao_3.gif" width="5" height="26" /></td>
+                  <td width="2"></td>
+                  <td width="4"><img src="img/dao_1.gif" width="4" height="26" /></td>
+                  <td align="center" background="img/dao_2.gif" class="daohang"><a href="xuqiumubiao.html" class="daohang">需求目标</a></td>
+                  <td width="5"><img src="img/dao_3.gif" width="5" height="26" /></td>
+                  <td width="2"></td>
+                  <td width="4"><img src="img/dao_1.gif" width="4" height="26" /></td>
+                  <td align="center" background="img/dao_2.gif" class="daohang"><a href="neirong.html" class="daohang">内容</a></td>
+                  <td width="5"><img src="img/dao_3.gif" width="5" height="26" /></td>
+                  <td width="2"></td>
+                  <td width="4"><img src="img/dao_1.gif" width="4" height="26" /></td>
+                  <td align="center" background="img/dao_2.gif" class="daohang"><a href="shishijizhi.html" class="daohang">实施机制</a></td>
+                  <td width="5"><img src="img/dao_3.gif" width="5" height="26" /></td>
+                  <td width="2"></td>
+                  <td width="4"><img src="img/dao_1.gif" width="4" height="26" /></td>
+                  <td align="center" background="img/dao_2.gif" class="daohang"><a href="fangan.html" class="daohang">案例</a></td>
+                  <td width="5"><img src="img/dao_3.gif" width="5" height="26" /></td>
+                  <td width="2"></td>
+                  <td width="4"><img src="img/dao_1.gif" width="4" height="26" /></td>
+                  <td align="center" background="img/dao_2.gif" class="daohang"><a href="yusuan.html" class="daohang">预算</a></td>
+                  <td width="5"><img src="img/dao_3.gif" width="5" height="26" /></td>
+                  <td width="25">&nbsp;</td>
+                </tr>
+            </table></td>
+            <td width="4"><img src="img/zhong_3.gif" width="4" height="31" /></td>
+          </tr>
+        </table>
+        <table width="1000" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="300" align="left" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="10" valign="bottom"><img src="img/zhongd.jpg" width="1000" height="10" /></td>
+          </tr>
+        </table>
+        <table width="627" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="5"></td>
+          </tr>
+          <tr>
+            <td align="center" class="hei">使用条款&nbsp;|&nbsp;法律声明&nbsp;|&nbsp;监督举报&nbsp;｜&nbsp;加入收藏</td>
+          </tr>
+          <tr>
+            <td align="center" class="hei">Copyright ? 2015 - 2015&nbsp;XLP版权所有</td>
+          </tr>
+        </table>
+      <p>&nbsp;</p></td>
+    </tr>
+  </table>
+  <script type="text/javascript">
+var speed=30;
+marquee_product2.innerHTML=marquee_product1.innerHTML;
+function Marquee(){
+if(marquee_demo.scrollLeft>=marquee_product1.scrollWidth){
+marquee_demo.scrollLeft=0;
+}
+else{
+marquee_demo.scrollLeft++;
+}
+}
+var MyMar=setInterval(Marquee,speed);
+marquee_demo.onmouseover=function(){clearInterval(MyMar);}
+marquee_demo.onmouseout=function(){MyMar=setInterval(Marquee,speed);}
+</script></center>
+</body>
+</html>
+
